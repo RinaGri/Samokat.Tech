@@ -19,4 +19,4 @@
 - ER-диаграма
 
 ## Документация
-Use Case
+[Use Case](https://github.com/RinaGri/Samokat.Tech/blob/main/Use%20Case%20%D0%9E%D1%82%D0%B7%D1%8B%D0%B2%D1%8B.png)
